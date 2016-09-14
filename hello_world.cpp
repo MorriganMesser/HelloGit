@@ -2,8 +2,12 @@
 
 using namespace std;
 
+void say_hello(){
+	cout<<"Hello Git Hub"<<endl;
+}
+
 int main(void){
-    cout<<"Hello Git Hub"<<endl;
+    say_hello();
     
     return 0;
 }
